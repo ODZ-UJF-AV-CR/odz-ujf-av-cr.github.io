@@ -4,19 +4,23 @@ main:
     url: /publications/
 
   - title: "Jak se přihlásit"
-    url: /talks/
+    #url: /talks/
+    url: /application/
 
   - title: "Let FÍK"
-    url: /teaching/
+    #url: /teaching/
+    url: /fik/
 
   - title: "Experiment"
-    url: /portfolio/
+    #url: /portfolio/
+    url: /experiment/
 
   - title: "Harmonogram"
-    url: /year-archive/
+    #url: /year-archive/
+    url: /harmonogram/
 
   - title: "Galerie"
-    url: /cv/
+    url: /galerie/
 
   - title: "Guide"
     url: /markdown/
