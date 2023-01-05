@@ -10,14 +10,11 @@ redirect_from:
 
 Soutěž FÍK-BALLOON umožňuje studentům českých středních škol provést technologický nebo vědecký experiment ve stratosférickém balónu Fík-9. Stratosférické balóny Fík s vědeckými experimenty jsou vypouštěny každoročně v rámci projektu Vesmír pro lidstvo, který má za úkol přiblížit vesmír lidem. Letos v listopadu 2023 budou pracovníci [Ústavu jaderné fyziky]( http://www.ujf.cas.cz/cs/oddeleni/oddeleni-dozimetrie-zareni/) vypouštět již 9. stratosférický balón Fík. Pro studentské týmy ze středních škol bude vyčleněna část užitečné hmotnosti gondoly pro jimi navržený experiment.
 
+Do soutěže se lze přihlásit s návrhem technologického nebo vědeckého experimentu, který bude posuzován odbornou porotou. Porota bude posuzovat celkové technické zpracování experimentu, zapojení studentů a impakt experimentu. Vítězné návrhy poté budou finančně a odborně podpořeny a realizovány.
 
-Do soutěže se lze přihlásit s návrhem technologického nebo vědeckého experimentu, který bude posuzován odbornou porotou. Porota bude posuzovat celkové technické zpracování experimentu, zapojení studentů a impakt experimentu. Vítězný návrh poté bude finančně a odborně podpořen a realizován.
+Soutěž FÍK-BALLOON je podpořena v rámci projektu Vesmír pro lidstvo.
 
-Soutěž FÍK-BALLOON je podpořena …
-
-
-
-
+---TADY BY MOŽNÁ MOHLY BÝT NĚJAKÝ LOGA---
 
 
 
