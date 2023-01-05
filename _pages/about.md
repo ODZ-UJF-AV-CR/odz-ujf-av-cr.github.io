@@ -15,6 +15,12 @@ Do soutěže se lze přihlásit s návrhem technologického nebo vědeckého ex
 
 Soutěž FÍK-BALLOON je podpořena …
 
+
+
+
+
+
+
 <!---
 A data-driven personal website
 ======
