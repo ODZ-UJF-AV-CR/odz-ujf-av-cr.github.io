@@ -11,7 +11,7 @@ title                    : "   FÍK-BALLOON Soutěž"
 title_separator          : "-"
 name                     : &name "Marek Sommer"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://odz-ujf-av-cr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "odz-ujf-av-cr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Vypouštění Fík-6"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Na Truhlářce 39/64, Praha"
+  location         : "Na Truhlářce 39/64, Praha 8"
   employer         :
   pubmed           :
   googlescholar    :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/balonfik/"
   foursquare       :
   github           : "ODZ-UJF-AV-CR"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
