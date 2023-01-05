@@ -1,10 +1,11 @@
 ---
-permalink: 
+permalink: /
 title: "Stratosférický balónový experiment Fík-9"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
+  - /home/
   - /about.html
 ---
 
