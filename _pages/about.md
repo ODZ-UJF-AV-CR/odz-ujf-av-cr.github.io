@@ -13,7 +13,9 @@ Soutěž FÍK-BALLOON umožňuje studentům českých středních škol provést
 
 Do soutěže se lze přihlásit s návrhem technologického nebo vědeckého experimentu, který bude posuzován odbornou porotou. Porota bude posuzovat celkové technické zpracování experimentu, zapojení studentů a impakt experimentu. Vítězné návrhy poté budou finančně a odborně podpořeny a realizovány.
 
-(OBR) Obrázek balónu (nějaký od Romana, protože má nejhezčí fotky).
+<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/500x300.png"></p><p align = "center">
+Fík-6.
+</p>
 
 Soutěž FÍK-BALLOON je podpořena v rámci projektu [Vesmír pro lidstvo](https://www.vesmirprolidstvo.cz/cs/).
 
