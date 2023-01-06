@@ -33,10 +33,10 @@ V případě, že povaha experimentu nebude vhodná pro reportování v této po
 
 Přibližně 2 měsíce před plánovaným vypuštěním balónu bude nutné integrovat veškerý payload do gondoly a otestovat tzv. elektromagnetickou kompatibilitu všech zařízení. Tento test má za úkol ověřit, že se experimenty vzájemně neruší a hlavně, že neruší dohledávací zařízení. Součástí testování bude i ověření záznamu dat z experimentů. Podobně jako u reportů bude zvolen individuální přístup testování u experimentů, které nevyužívají elektronické zařízení (například biologické experimenty).
 
-## Vyhodnocení experimentu
+## Vyhodnocení
 
 V případě, že se vše povede a podaří se gondolu s experimenty najít, očekává se, že výsledky odprezentovány a zpracovány do formy prezentace nebo krátkého článku, který bude volně ke stažení na webových stránkách.
 
-## Financování experimentu
+## Financování
 
 Doplní Iva? :-)

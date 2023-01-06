@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "    FÍK-BALLOON Soutěž  "
+title                    : "    FÍK--BALLOON Soutěž  "
 title_separator          : "-"
 name                     : &name "Marek Sommer"
 description              : &description "personal description"
