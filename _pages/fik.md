@@ -20,5 +20,3 @@ Vzhledem k extrémním podmínkám, které panují během letu v gondole je nutn
 Díky dohledávacím zařízením je možné po celou dobu letu sledovat real-time pohyb gondoly a dopočítat místo dopadu pomocí [online prediktoru](https://amateur.sondehub.org). To nám umožní dostat se ke gondole a najít ji během několika hodin od dopadu. Občas musíme chvíli hledat v kopřivách, lesích a polích. Potom je ještě nutné udělat triumfální foto s nálezem a nálezci.
 
 (OBR) Triumfální foto s nálezcem.
-
-zmena terminu, odpiskani startu kvuli pocasi, atd.???

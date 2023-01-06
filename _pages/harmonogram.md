@@ -11,12 +11,12 @@ redirect_from:
 
 ### Harmonogram FÍK-BALLOON soutěže
 
-| Akce                        | Deadline          |                                                              |
-| --------------------------- | ----------------- | ------------------------------------------------------------ |
-| Podání přihlášky            | 31. března 2023   | Description of the item in the list                          |
-| Odeslání nultého reportu    | 30. dubna 2023    | Description of the item in the list                          |
-| Odeslání prvního reportu    | 30. června 2023   | Description of the item in the list                          |
-| Odeslání druhého reportu    | 31. srpna 2023    | Description of the item in the list                          |
+| Akce                        | Deadline          |
+| --------------------------- | ----------------- |
+| Podání přihlášky            | 31. března 2023   |
+| Odeslání nultého reportu    | 30. dubna 2023    |
+| Odeslání prvního reportu    | 30. června 2023   |
+| Odeslání druhého reportu    | 31. srpna 2023    |
 
 ### Harmonogram Fík-9
 
