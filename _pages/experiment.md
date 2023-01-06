@@ -15,6 +15,8 @@ Váš experiment nemusí mít s naším vůbec nic společného. Rádi vám posk
 
 (OBR) Ukázka vnitřku gondoly (obrázek z Hemery).
 
+| ![space-1.jpg](https://odz-ujf-av-cr.github.io/images/500x300.png) ||:--:|| <b>Ukázka vnitřku gondoly.</b>|
+
 ## Progress reports
 
 Pokud bude váš experiment vybrán k realizaci bude váš tým během roku předkládat několik reportů, v kterých se ověří progres experimentu. Tyto reporty budou dohromady tři. Reporty budou sloužit nám k ověření vaší aktivity, progresu a také vám k tomu, abychom vám mohli poradit a doporučit vhodné řešení, pokud budeme mít znalosti a zkušenosti s danou problematikou. Rozvrh reportů je upřesněn v [Harmonogramu](https://odz-ujf-av-cr.github.io/harmonogram/).
