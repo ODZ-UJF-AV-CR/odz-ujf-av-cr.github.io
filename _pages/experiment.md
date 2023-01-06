@@ -13,7 +13,7 @@ Cílem našeho experimentu je zejména měření kosmického ionizujícího zá�
 
 Váš experiment nemusí mít s naším vůbec nic společného. Rádi vám poskytneme všechna naše data pro porovnání nebo vyhodnocení vašeho experimentu. Pro váš experiment bude v gondole připraveno místo o objemu přibližně 3 dm<sup>3</sup>. Celkový vnitřní objem gondoly je přibližně 15,5 dm<sup>3</sup>. Hmotnost vašeho experimentu by neměla přesáhnout 400 g (včetně napájení, mechanických prvků a všeho ostatního) a celkový příkon by měl být nižší než 10 W. V případě umístění experimentu mimo gondolu je nutné upřesnit velikost a způsob uchycení zejména kvůli bezpečnosti. Kvůli naší a vaší bezpečnosti je také nutné specifikovat, zda váš experiment používá vysoké napětí, lasery, věci pod vysokým tlakem, chemicky nebo biologicky nebezpečné sloučeniny (zejména u biologických experimentů), radioaktivní látky, atd. Pokud váš experiment vysílá elektromagnetické záření je nutné z důvodu letové bezpečnosti specifikovat na jakých frekvencích vysílá. Experimenty, které budou problematické z etického hlediska budou diskvalifikovány (např. přežití myšek v myších skafandrech a experimenty podobného typu).
 
-<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/500x300.png"></p><p align = "center">
+<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Hemera/img1.jpg"></p><p align = "center">
 Ukázka vnitřku gondoly.
 </p>
 
