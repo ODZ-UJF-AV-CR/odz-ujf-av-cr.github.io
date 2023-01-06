@@ -17,6 +17,7 @@ redirect_from:
 | Odeslání nultého reportu    | 30. dubna 2023    |
 | Odeslání prvního reportu    | 30. června 2023   |
 | Odeslání druhého reportu    | 31. srpna 2023    |
+| Vyhodnocení výsledků        | 31. března 2024   |
 
 ### Harmonogram Fík-9
 
