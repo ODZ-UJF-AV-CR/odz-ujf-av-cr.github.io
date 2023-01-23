@@ -15,10 +15,12 @@ Let stratosférického balónu Fík—9 proběhne začátkem prosince 2023. Vypo
 
 Vzhledem k extrémním podmínkám, které panují během letu v gondole je nutné, aby experimenty byly schopny všechny podmínky přestát a zůstat fungovat. Zejména se jedná o nízké a vysoké teploty a nízký atmosférický tlak. Během předchozích letů bylo vypozorováno, že teplota uvnitř gondoly se pohybuje od -30°C až po +60°C. Nejvyšší teplota je dosažena před startem resp. krátce po startu, kdy ztrátový tepelný výkon elektroniky ohřívá vnitřek polystyrenové gondoly, která je od okolí dobře tepelně izolovaná. Jak gondola stoupá výrazně se snižuje teplota vzduchu, která může dosáhnout -60°C až -70°C, což ochladí vnitřek gondoly i přes nížší tlak vzduchu. Teplota unvitř se stabilizuje okolo -25°C a ohřeje se až při sestupu na padáku, když sestoupá dostatečně nízko. V tento moment se může na studených površích kondenzovat vzdušná vlhkost. S ohledem na tyto podmínky je nutné volit komponenty, které jsou schopné vydržet.
 
-(OBR) Teplotní profil letu Fík—6.
+<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Fik8_aux_plot.png" alt="drawing" width="300"/></p><p align = "center">
+Profil teploty a tlaku během letu Fík—8.
+</p>
 
 Díky dohledávacím zařízením je možné po celou dobu letu sledovat real-time pohyb gondoly a dopočítat místo dopadu pomocí [online prediktoru](https://amateur.sondehub.org). To nám umožní dostat se ke gondole a najít ji během několika hodin od dopadu. Občas musíme chvíli hledat v kopřivách, lesích a polích. Potom je ještě nutné udělat triumfální foto s nálezem a nálezci.
 
 <p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Fik-8/img1.jpg" alt="drawing" width="300"/></p><p align = "center">
-Triumfální foto s nálezcem.
+Triumfální foto s nálezem.
 </p>
