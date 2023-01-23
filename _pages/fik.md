@@ -15,7 +15,7 @@ Let stratosférického balónu Fík—9 proběhne začátkem prosince 2023. Vypo
 
 Vzhledem k extrémním podmínkám, které panují během letu v gondole je nutné, aby experimenty byly schopny všechny podmínky přestát a zůstat fungovat. Zejména se jedná o nízké a vysoké teploty a nízký atmosférický tlak. Během předchozích letů bylo vypozorováno, že teplota uvnitř gondoly se pohybuje od -30°C až po +60°C. Nejvyšší teplota je dosažena před startem resp. krátce po startu, kdy ztrátový tepelný výkon elektroniky ohřívá vnitřek polystyrenové gondoly, která je od okolí dobře tepelně izolovaná. Jak gondola stoupá výrazně se snižuje teplota vzduchu, která může dosáhnout -60°C až -70°C, což ochladí vnitřek gondoly i přes nížší tlak vzduchu. Teplota unvitř se stabilizuje okolo -25°C a ohřeje se až při sestupu na padáku, když sestoupá dostatečně nízko. V tento moment se může na studených površích kondenzovat vzdušná vlhkost. S ohledem na tyto podmínky je nutné volit komponenty, které jsou schopné vydržet.
 
-<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Fik8_aux_plot.png" alt="drawing" width="300"/></p><p align = "center">
+<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Fik8_aux_plot.png" alt="drawing" width="600"/></p><p align = "center">
 Profil teploty a tlaku během letu Fík—8.
 </p>
 
