@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Jsi středoškolský student/ka s životním stylem - inženýr (baví tě experimentovat, zkoušet spojovat/rozpojovat věci, hrabat se v gadgetech a seš tak trochu divný/á)? Pokud ano a máš chuť naskočit do zajímavýho projektu, na který budeš moct být na konci roku hrdý/á, tak je FÍK—BALLOON soutěž přesně pro tebe. Pokud ne, nevadí. Přihlaš se taky. Jenom počítej s tím, že potkáš "zajímavé" lidi.
+Jsi středoškolský student/ka s životním stylem - inženýr (baví tě experimentovat, zkoušet spojovat/rozpojovat věci, hrabat se v gadgetech a seš tak trochu divný/á)? Pokud ano a máš chuť naskočit do zajímavýho projektu, na který budeš moct být na konci roku hrdý/á, tak je FÍK-BALLOON soutěž přesně pro tebe. Pokud ne, nevadí. Přihlaš se taky. Jenom počítej s tím, že potkáš "zajímavé" lidi.
 
 Vzhledem k tomu, že se od tebe očekává velké množství práce od návrhu experimentu, přes konstrukci, výrobu, až po testování, atd., tak ti doporučujeme sehnat si tým kamarádů, kteří ti s tím pomůžou a budete se navzájem podporovat popř. si nadávat. Odborná porota určitě bude preferovat, když uvidí, že za celý experiment nezodpovídá jenom jeden člověk, ale povinnosti se rozdělí do celého týmu. Pokud k sobě budete mít i učitele, který tebe/vás povede a dá vám pětky v případě, když to budete flákat, tak to bude ještě lepší. Jestli se ti nedaří sehnat si tým, tak nám napiš a my se ti pokusíme najít match.
 
