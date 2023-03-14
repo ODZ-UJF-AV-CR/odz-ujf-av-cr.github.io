@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "    FÍK—BALLOON Soutěž  "
+title                    : "    FÍK-BALLOON Soutěž  "
 title_separator          : "-"
 name                     : &name "Marek Sommer"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gondola Fík—5"
+  name             : "Gondola Fík-5"
   avatar           : "profile.png"
   bio              : "Nalezená gondola s experimentem"
   location         : "Na Truhlářce 39/64, Praha 8"
