@@ -17,7 +17,10 @@ Do soutěže se lze přihlásit s návrhem technologického nebo vědeckého ex
 Fík-6 pár minut před startem.
 </p>
 
-<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Logos/logo-ujf-vektor.png"></p><p align = "center">
+
+
+
+<p align = "center"><img src = "https://odz-ujf-av-cr.github.io/images/Logos/logo-merged.png"></p><p align = "center">
 </p>
 
 
