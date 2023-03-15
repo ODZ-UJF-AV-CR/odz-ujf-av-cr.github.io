@@ -19,7 +19,7 @@ Ukázka vnitřku gondoly.
 
 ## Progress reports
 
-Pokud bude váš experiment vybrán k realizaci bude váš tým během roku předkládat několik reportů, v kterých se ověří progres experimentu. Tyto reporty budou dohromady tři. Reporty budou sloužit nám k ověření vaší aktivity, progresu a také vám k tomu, abychom vám mohli poradit a doporučit vhodné řešení, pokud budeme mít znalosti a zkušenosti s danou problematikou. Rozvrh reportů je upřesněn v [Harmonogramu](https://odz-ujf-av-cr.github.io/harmonogram/).
+Pokud bude váš experiment vybrán k realizaci, bude váš tým během roku předkládat několik reportů, v kterých se ověří progres experimentu. Tyto reporty budou dohromady tři. Reporty budou sloužit nám k ověření vaší aktivity, progresu a také vám k tomu, abychom vám mohli poradit a doporučit vhodné řešení, pokud budeme mít znalosti a zkušenosti s danou problematikou. Rozvrh reportů je upřesněn v [Harmonogramu](https://odz-ujf-av-cr.github.io/harmonogram/).
 
 * Nultý report bude podrobně rozebírat jaké komponenty budou použity v rámci experimentu, jak se budou skládat do celkového experimentu a měl by obsahovat i soupis dostupnosti komponent a jejich odhadovanou cenu.
 
@@ -31,12 +31,12 @@ V případě, že povaha experimentu nebude vhodná pro reportování v této po
 
 ## Testovaní
 
-Přibližně 2 měsíce před plánovaným vypuštěním balónu bude nutné integrovat veškerý payload do gondoly a otestovat tzv. elektromagnetickou kompatibilitu všech zařízení. Tento test má za úkol ověřit, že se experimenty vzájemně neruší a hlavně, že neruší dohledávací zařízení. Součástí testování bude i ověření záznamu dat z experimentů. Podobně jako u reportů bude zvolen individuální přístup testování u experimentů, které nevyužívají elektronické zařízení (například biologické experimenty).
+Přibližně 2 měsíce před plánovaným vypuštěním balónu bude nutné integrovat veškerý payload do gondoly a otestovat tzv. elektromagnetickou kompatibilitu všech zařízení. Tento test má za úkol ověřit, že se experimenty vzájemně neruší a hlavně, že neruší dohledávací zařízení. Součástí testování bude i ověření záznamu dat z experimentů. Podobně jako u reportů bude zvolen individuální přístup testování u experimentů, které nevyužívají elektronické zařízení (například biologické experimenty). V případě, že se všechno povede a vychytají se všechny chybky, tak bude Engineering verze experimentu povýšena na Flight verzi, která později poletí na Fík-9.
 
 ## Vyhodnocení
 
-V případě, že se vše povede a podaří se gondolu s experimenty najít, očekává se, že výsledky odprezentovány a zpracovány do formy prezentace nebo krátkého článku, který bude volně ke stažení na webových stránkách.
+V případě, že se vše povede a podaří se gondolu s experimenty najít, očekává se, že výsledky odprezentovány a zpracovány do formy prezentace a krátkého článku, který bude volně ke stažení na webových stránkách.
 
 ## Financování
 
-Doplní Iva? :-)
+Nějaké financování snad bude. Až budeme znát podrobnosti, tak je sem doplníme.
