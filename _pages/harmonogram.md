@@ -13,7 +13,7 @@ redirect_from:
 
 | Akce                        | Deadline          |
 | --------------------------- | ----------------- |
-| Podání přihlášky            | 30. dubna 2023    |
+| Podání přihlášky            | prodlouženo do 7. května 2023    |
 | Odeslání nultého reportu    | 15. května 2023   |
 | Odeslání prvního reportu    | 30. června 2023   |
 | Odeslání druhého reportu    | 31. srpna 2023    |
